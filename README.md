@@ -1,3 +1,7 @@
+# DO NOT USE THIS UNLESS YOU ARE WORKING ON https://www.drupal.org/project/drupal/issues/2982684
+
+This is a temporary workspace for getting the drupal-scaffold plugin ready to import into core. This entire repository will eventually be overwritten by a subtree split once it is a part of core.
+
 # drupal-scaffold
 
 [![Build Status](https://travis-ci.org/drupal-composer/drupal-scaffold.svg?branch=master)](https://travis-ci.org/drupal-composer/drupal-scaffold)
